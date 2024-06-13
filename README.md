@@ -7,9 +7,13 @@
 {'num_steps': 150, 'initial_learning_rate': 0.05, 'regularize_noise_weight': 500000.0, 'rec_weight': 0.5, 'lpips_weight': 1}
 
 ![1](Без названия (3).png)
+
 ![1](Без названия (4).png)
+
 ![1](Без названия (5).png)
+
 ![1](Без названия (6).png)
+
 ![1](Без названия (7).png)
 
 ## Style transfer
