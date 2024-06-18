@@ -1,6 +1,6 @@
 # so-VITS-svc
 
-**Референс**: Скриптонит – 9 треков (см. архив skrip_skrip.zip)
+**Референс**: Скриптонит – 9 треков (см. архив [skrip_skrip.zip](https://drive.google.com/file/d/1j_J29xTEi82XFaT6Cwzm1VBr16-6t0-B/view?usp=sharing))
 
 **Переозвучка**: Барбарики – Что такое доброта (см. dobrota.wav)
 
