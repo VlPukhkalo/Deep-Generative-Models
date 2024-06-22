@@ -7,11 +7,11 @@
 - Изменила mixed_precision на "fp16" и включила gradient_checkpointing, иначе не влезало в память
 - Взяла 5 промптов, зафиксировала seed и параметры. Результат:
 
-![1](forest.jpg)
-![1](desert.jpg)
-![1](pool.jpg)
-![1](cafe.jpg)
-![1](car.jpg)
+![1](results/forest.jpg)
+![1](results/desert.jpg)
+![1](results/pool.jpg)
+![1](results/cafe.jpg)
+![1](results/car.jpg)
 
 ## LoRA
 
@@ -21,9 +21,9 @@
 
 rank             |  Cafe          | Car | Desert | Pool | Forest|
 :-----------:|:--------------:|:----------:|:---------------:|:------------------------:|:------------------------:
-4|![1](cafe_1.jpg)|![1](car_1.jpg)|![1](desert_1.jpg)|![1](pool_1.jpg)|![1](forest_1.jpg)|
-12|![1](cafe_2.jpg)|![1](car_2.jpg)|![1](desert_2.jpg)|![1](pool_2.jpg)|![1](forest_2.jpg)|
-24|![1](cafe_3.jpg)|![1](car_3.jpg)|![1](desert_3.jpg)|![1](pool_3.jpg)|![1](forest_3.jpg)|
+4|![1](results/cafe_1.jpg)|![1](results/car_1.jpg)|![1](results/desert_1.jpg)|![1](results/pool_1.jpg)|![1](results/forest_1.jpg)|
+12|![1](results/cafe_2.jpg)|![1](results/car_2.jpg)|![1](results/desert_2.jpg)|![1](results/pool_2.jpg)|![1](results/forest_2.jpg)|
+24|![1](results/cafe_3.jpg)|![1](results/car_3.jpg)|![1](results/desert_3.jpg)|![1](results/pool_3.jpg)|![1](results/forest_3.jpg)|
 
 ## Cравнение
 
@@ -35,4 +35,4 @@ rank             |  Cafe          | Car | Desert | Pool | Forest|
 
 Результат: 
 
-![1](cnet.jpg)
+![1](results/cnet.jpg)
